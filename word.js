@@ -1,7 +1,7 @@
 var Letter = require("./letter.js")
 
 
-function Word(word) {
+function Word(werd) {
     this.letterArr = [];
     this.compare = "";
     for (var i = 0; i < werd.length; i++) {
