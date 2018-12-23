@@ -16,5 +16,6 @@ Screenshots:
 
 ![wguessimagegameover](https://user-images.githubusercontent.com/43328718/50380416-0264d100-062c-11e9-9e0d-7b33dda20314.PNG)
 
+Note: Included in portfolio
 
 Author: Resti Miranda
