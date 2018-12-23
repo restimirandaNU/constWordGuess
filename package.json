@@ -1,0 +1,24 @@
+{
+  "name": "constWordGuess",
+  "version": "1.0.0",
+  "description": "Constructor Word Guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restimirandaNU/constWordGuess.git"
+  },
+  "author": "Resti Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restimirandaNU/constWordGuess/issues"
+  },
+  "homepage": "https://github.com/restimirandaNU/constWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {}
+}
