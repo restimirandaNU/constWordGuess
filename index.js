@@ -29,7 +29,7 @@ function gameOver() {
                 print()
                 askToGuess();
             } else {
-                console.log("Great! Thanks for player")
+                console.log("Great! Thanks for playing")
             }
         })
     }
